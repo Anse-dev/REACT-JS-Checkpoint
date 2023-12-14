@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Navbar, Nav, Card, Row, Col, Carousel } from "react-bootstrap";
-
+import Footer from "./Footer";
 function App() {
   const products = [
     {
@@ -123,6 +123,7 @@ function App() {
           </Row>
         </Container>
       </div>
+      <Footer />
     </>
   );
 }
