@@ -1,3 +1,7 @@
+![image](https://github.com/Anse-dev/REACT-JS-Checkpoint/assets/67246148/854b83a8-f406-46c9-81d8-93d3ce011642)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
